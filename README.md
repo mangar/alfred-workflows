@@ -21,6 +21,15 @@ Show documents from language / service
 
 - - - 
 
+### [Google Translate](https://github.com/thomashempel/AlfredGoogleTranslateWorkflow)
+Translation with Google
+
+> Triggers: , `translate`, `gt`, `gt en>pt`, `gt pt>en`.
+
+- - - 
+
+
+
 
 ### [Sublime Text](https://github.com/franzheidl/alfred-workflows/tree/master/open-with-sublime-text)
 
