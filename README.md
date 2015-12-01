@@ -112,6 +112,17 @@ Turns your wifi on and off
 
 
 
+- - - 
+
+
+### [DNSWifi](https://github.com/mangar/alfred-workflows/tree/master/dns)
+Show/Change DNS servers. Params: google, uno, show
+
+> Triggers: `dnswifi`.
+
+
+
+
 
 
 
